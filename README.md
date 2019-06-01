@@ -1,5 +1,6 @@
 # PathCAM2
 PathCAM2 - a 3d CAM gcode toolpath generator
+This tool read STL files and creates toolpaths for a 3d CNC machine.
 
 This is an clone of the project https://github.com/xenovacivus/PathCAM .
 The origial is imperial. This clone will be metric.
@@ -14,7 +15,7 @@ The plan is to add/change the following:
 - Add routing to remove all material above object
 - Option to do only rough cutting
 - Option to set mill type: round or square
--
+- Lots of other things.....
 
 I will regulary create a msi installer. Later on will find out how to do 
 a svn to git commit of the source codes.
