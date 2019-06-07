@@ -20,6 +20,8 @@ The plan is to add/change the following:
 I will regulary create a msi installer. Later on will find out how to do 
 a svn to git commit of the source codes.
 
+The file "PathCAM2.msi" contains the latest installer. 
+
 Cheers
 
 Arnoud
