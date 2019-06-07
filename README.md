@@ -31,12 +31,15 @@ Arnoud
 - Swapped left and right mouse buttons
 - changed installer uuid's
 - Added tab diameter setting
-- Added buttons for rotation
-NOTE: gcode exports,robot and path generation untested
+- Added buttons for rotation -> try pressing buttons multiple times
+- NOTE: gcode exports,robot and path generation untested
 
 2.0.1  8-june-2019
 - Added material settings
 - Added material cube display
 - Connected gcode save with speed settings
 - Converted robot output to metric
-NOTE: gcode exports,robot and path generation still untested
+- NOTE: gcode exports,robot and path generation still untested
+
+
+
